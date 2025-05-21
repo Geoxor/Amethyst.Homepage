@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import BaseHeader from './components/BaseHeader.vue';
+import BaseFooter from './components/BaseFooter.vue';
 </script>
 
 <template>
@@ -17,6 +18,8 @@ import BaseHeader from './components/BaseHeader.vue';
 
     </div>
   </div>
+
+  <base-footer />
 </template>
 
 <style lang="postcss">
