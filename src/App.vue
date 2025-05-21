@@ -9,7 +9,7 @@ import BaseFooter from './components/BaseFooter.vue';
   <div class="bg-[#08080B] flex flex-col"> 
     <div class="overflow-hidden w-full h-screen relative bg-[#08080B]">
       <div class="w-260vh rotate-30 h-screen absolute origin-top-left -top-20 left-12 z-1 flex">
-        <video src="./assets/castrice.mp4" class="w-1/2 h-min object-cover" autoplay disableRemotePlayback loop muted  />
+        <video src="./assets/castrice.mp4" class="select-none w-1/2 h-min object-cover" autoplay disableRemotePlayback loop muted  />
         <img src="./assets/castrice-shadow.png" class="w-1/2 h-min scale-106 -translate-x-1 -translate-y-2 " alt="amethyst"  />
       </div>
       <div class="bg-[#A68CDA] origin-top-left w-full rotate-30 lg:w-1/2 absolute h-1/3 bottom-0 left-0"/>
