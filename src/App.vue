@@ -7,7 +7,7 @@ import BaseHeader from './components/BaseHeader.vue';
 
   <div class="bg-[#08080B] flex flex-col"> 
     <div class="overflow-hidden w-full h-screen relative bg-[#08080B]">
-      <div class="w-260vh rotate-30 h-screen absolute origin-top-left -top-24 left-12 z-1 flex">
+      <div class="w-260vh rotate-30 h-screen absolute origin-top-left -top-20 left-12 z-1 flex">
         <video src="./assets/castrice.mp4" class="w-1/2 h-min object-cover" autoplay disableRemotePlayback loop muted  />
         <img src="./assets/castrice-shadow.png" class="w-1/2 h-min scale-106 -translate-x-1 -translate-y-2 " alt="amethyst"  />
       </div>
