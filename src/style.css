@@ -1,6 +1,7 @@
 * {
   @apply !outline-none border-none box-border;
   text-decoration-line: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 html,

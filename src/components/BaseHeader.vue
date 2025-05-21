@@ -1,6 +1,6 @@
 <template>
-  <header class="absolute-x z-10 items-center flex justify-center w-full py-8 gap-6">
-    <button class="text-[#08080B] bg-[#A68CDA] rounded-full py-2 px-4 cursor-pointer "  >
+  <header class="absolute-x text-14px z-10 items-center flex justify-center w-full py-8 gap-6">
+    <button class="text-[#08080B] text-14px font-semibold bg-[#A68CDA] rounded-full py-2 px-4 cursor-pointer "  >
       <a class='text-inherit no-underline' target="_blank" href="https://amethyst.geoxor.moe/guides/installation#installing-precompiled-packages">Download</a>
     </button>
     <button>
