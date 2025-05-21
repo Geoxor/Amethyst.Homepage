@@ -11,8 +11,8 @@ import BaseHeader from './components/BaseHeader.vue';
         <video src="./assets/castrice.mp4" class="w-1/2 h-min object-cover" autoplay disableRemotePlayback loop muted  />
         <img src="./assets/castrice-shadow.png" class="w-1/2 h-min scale-106 -translate-x-1 -translate-y-2 " alt="amethyst"  />
       </div>
-      <div class="bg-[#A68CDA] origin-top-left rotate-30 w-full absolute h-full top-8 left-0"/>
-      <img src="./assets/app1.png" alt="amethyst" class="absolute-y lg:w-1/2 max-w-240 right-1/16 z-2" />
+      <div class="bg-[#A68CDA] origin-top-left w-full rotate-30 lg:w-1/2 absolute h-1/2 bottom-0 left-0"/>
+      <img src="./assets/app1.png" alt="amethyst" class="w-6/7 absolute-y invisible lg:visible lg:w-1/2 max-w-240 right-1/16 z-2" />
     </div>
     <div class="overflow-hidden w-full h-screen relative bg-[#E1D1FE]">
      
